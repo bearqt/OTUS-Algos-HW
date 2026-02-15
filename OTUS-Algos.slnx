@@ -2,5 +2,6 @@
   <Project Path="OTUS-Algos-HW-2.csproj" />
   <Project Path="OTUS-Algos-HW-3/OTUS-Algos-HW-3.csproj" />
   <Project Path="OTUS-Algos-HW-5/OTUS-Algos-HW-5.csproj" Id="fe4c8dff-4c4c-4229-adcc-fe11c001af79" />
+  <Project Path="OTUS-Algos-HW-6/OTUS-Algos-HW-6.csproj" Id="37fbdcab-d064-479d-bc76-4388c8705781" />
   <Project Path="OTUS-HW-4/OTUS-Algos-HW-4.csproj" />
 </Solution>
