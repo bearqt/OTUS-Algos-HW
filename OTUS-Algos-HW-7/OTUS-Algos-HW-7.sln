@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTUS-Algos-HW-7", "OTUS-Algos-HW-7.csproj", "{2344E4E3-2293-BA22-1488-41CD76DF5BAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2344E4E3-2293-BA22-1488-41CD76DF5BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2344E4E3-2293-BA22-1488-41CD76DF5BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2344E4E3-2293-BA22-1488-41CD76DF5BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2344E4E3-2293-BA22-1488-41CD76DF5BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F88D3C7F-9ADD-4257-81C2-1FF0E241F22C}
+	EndGlobalSection
+EndGlobal
